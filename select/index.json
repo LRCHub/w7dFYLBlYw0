@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ひとりじゃない",
+  "base_artist": "DEEN",
+  "createdAt": "2025-12-07T11:38:43.160711Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "だから、ひとりじゃない",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/01_だから、ひとりじゃない_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ひとりじゃない(DEEN The Best キセキ)",
+      "artist": "DEEN",
+      "has_synced": true,
+      "path": "select/02_ひとりじゃない(DEEN_The_Best_キセキ)_DEEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ひとりじゃない [Hitori ja Nai (I’m Not Alone)]",
+      "artist": "DEEN",
+      "has_synced": true,
+      "path": "select/03_ひとりじゃない_[Hitori_ja_Nai_(I’m_Not_Alone)]_DEEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ひとりじゃない",
+      "artist": "DEEN",
+      "has_synced": false,
+      "path": "select/04_ひとりじゃない_DEEN.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ひとりじゃない",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/05_ひとりじゃない_SEVENTEEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ひとりじゃない - Not Alone",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/06_ひとりじゃない_-_Not_Alone_SEVENTEEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ひとりじゃない",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/07_ひとりじゃない_SEVENTEEN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ひとりじゃない(DEEN The Best ｷｾｷ)",
+      "artist": "DEEN",
+      "has_synced": true,
+      "path": "select/08_ひとりじゃない(DEEN_The_Best_キセキ)_DEEN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "So you're not alone. (だから、ひとりじゃない)",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/09_So_you're_not_alone._(だから、ひとりじゃない)_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "だから、ひとりじゃない",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/10_だから、ひとりじゃない_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "『ひとりじゃない』",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/11_『ひとりじゃない』_JUJU.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ひとりじゃない",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/12_ひとりじゃない_SEVENTEEN.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "だから、ひとりじゃない -BRIGHT NEW WORLD<スペシャルオンデマンドライブ-",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/13_だから、ひとりじゃない_-BRIGHT_NEW_WORLD_スペシャルオンデマンドライブ-_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひとりじゃない",
+      "artist": "DEEN",
+      "has_synced": false,
+      "path": "select/pl_01_ひとりじゃない_DEEN.txt"
+    }
+  ]
+}
